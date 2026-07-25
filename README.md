@@ -49,23 +49,25 @@ The primary objective is to transform raw government transport data into high-im
 ### 1. Power BI Interactive Dashboard
 *Features dynamic KPI cards with YoY change indicators, monthly trend sparklines, road type breakdowns, and an interactive UK geographic fatal casualty map.*
 
-![Power BI Dashboard](Power%20Bi.jpeg)
+![Power BI Dashboard](Road%20Accident%20project/Media/Power%20Bi.jpeg)
 
 ### 2. Excel Executive Dashboard
 *Built using advanced Excel tools including Power Query, Power Pivot, and DAX modeling to deliver robust exploratory views across vehicle types, weather conditions, and surface states.*
 
-![Excel Dashboard](Dashboard_Excel.jpeg)
+![Excel Dashboard](Road%20Accident%20project/Media/Dashboard_Excel.jpeg) 
 
 ---
 
 ## 📂 Repository Structure
 ```text
-├── data/                  # Cleaned and raw CSV dataset extracts
-├── sql/                   # SQL Server database schema & aggregation queries
-├── dashboards/            # Power BI (.pbix) and Excel (.xlsx) files
-├── presentation/          # Graduation project presentation deck
+├── Road Accident project/
+│   ├── Documentation/     # Project documentation & requirements
+│   ├── Media/             # Dashboard preview images (Power BI & Excel)
+│   ├── Power Bi/          # Power BI dashboard source files (.pbix)
+│   ├── Presentation/      # Graduation project presentation deck
+│   ├── SQL/               # SQL Server database schema & aggregation queries
+│   └── Data.zip           # Raw & cleaned datasets
 └── README.md              # Project documentation
-```
 
 ---
 
