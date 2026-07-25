@@ -68,6 +68,7 @@ The primary objective is to transform raw government transport data into high-im
 │   ├── SQL/               # SQL Server database schema & aggregation queries
 │   └── Data.zip           # Raw & cleaned datasets
 └── README.md              # Project documentation
+```
 
 ---
 
@@ -77,8 +78,3 @@ The primary objective is to transform raw government transport data into high-im
 3. **Temporal Targeting:** Increase visible policing and variable speed enforcement during Friday peak travel windows and evening rush hours.
 4. **Rural Safety Gaps:** Address the disproportionate severity rate on rural high-speed roads through enhanced signage, lighting, and speed limits.
 5. **Continuous Monitoring:** Maintain live-refreshed BI dashboards to track the positive YoY decline observed between 2021 and 2022 (e.g., 35.6% drop in fatal accidents).
-
----
-*© 2026 DEPI Data Analytics Track — All rights reserved.*
-README.md
-جارٍ عرض "README.md".
